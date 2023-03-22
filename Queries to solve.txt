@@ -1,0 +1,9 @@
+Charts to prepare  for Email Marketing Analysis dashboard :
+1)People signed up by Gender
+2)Active User Status
+3)People Signed up by Marital Status
+4)People signed up by Living Status
+5)People signed up by State
+6)People signed up by City.
+7)People signed up by Year.
+8)People signed up by Time.
